@@ -115,9 +115,13 @@ input, select, textarea {
 
 /* Type */
 
+	.classSchedule{
+		display: flex;
+		justify-content: center !important;
+	}
 	body {
-		background-color: #fff;
-		color: #444;
+		background-color: rgb(187, 184, 184);
+		color: rgb(0, 0, 0);
 	}
 
 	body, input, select, textarea {
